@@ -10,12 +10,12 @@ public class App {
     }
     
     public void method21() {
-        System.out.println("2.0.2");
+        System.out.println("2.1");
     }
     
+    //proste zmiany 2.1.0 master + zmiay 2.1.0
     
-    //proste zmiany 2.0.3 master + zmiany 2.0.2
+    //proste zmiany 2.1.0
     
-    //proste zmiany 2.0.2
     
 }
