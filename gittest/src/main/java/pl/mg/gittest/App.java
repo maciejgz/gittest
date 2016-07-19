@@ -11,7 +11,8 @@ public class App {
     
     
     
-    //proste zmiany master
+    //proste zmiany master + zmiany 2.0.2
     
+    //proste zmiany 2.0.2
     
 }
