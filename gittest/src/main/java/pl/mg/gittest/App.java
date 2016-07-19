@@ -10,8 +10,9 @@ public class App {
     }
     
     public void method21() {
-        System.out.println("master");
+        System.out.println("2.0.2");
     }
+    
     
     //proste zmiany 2.0.3 master + zmiany 2.0.2
     
